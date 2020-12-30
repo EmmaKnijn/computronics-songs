@@ -5,5 +5,13 @@
         "author":"CaptainSparkles",
         "speed":1,
         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true"
-    }
+    },
+    "song2":{
+        "name":"Mine Diamonds",
+        "author":"MineCraft Awesome Parodys",
+        "speed":1,
+        "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true"
+    }        
+    
+
 }
