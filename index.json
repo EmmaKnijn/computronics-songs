@@ -4,18 +4,18 @@
         "name":"Fallen Kingdom",
         "author":"CaptainSparkles",
         "speed":2,
-        "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true",
+        "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true"
     },
     {   "name": "Mine Diamonds",
         "author":"CaptainSparkles",
         "speed":1,
-        "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true",
+        "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true"
     },
       {
         "name":"e",
         "author":"Dr. James Grime",
         "speed":1,
-        "file":"https://github.com/Lignum/e/blob/master/e.dfpwm?raw=true",
-      },
+        "file":"https://github.com/Lignum/e/blob/master/e.dfpwm?raw=true"
+      }
   ]
 }
