@@ -5,73 +5,85 @@
       "name": "Fallen Kingdom",
       "author": "CaptainSparkles",
       "speed": 2,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true",
+      "time": 250
     },
     {
       "name": "Mine Diamonds",
       "author": "MineCraft Awesome Parodys",
       "speed": 1,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true",
+      "time": 231
     },
     {
       "name": "e",
       "author": "Dr. James Grime",
       "speed": 1,
-      "file": "https://github.com/Lignum/e/blob/master/e.dfpwm?raw=true"
+      "file": "https://github.com/Lignum/e/blob/master/e.dfpwm?raw=true",
+      "time":52
     },
     {
       "name": "spaceman",
       "author": "Lowly, AVXP, COSMIC, théos",
       "speed": 2,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/spaceman.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/spaceman.dfpwm?raw=true",
+      "time":172
     },
     {
       "name": "All I Need",
       "author": "Slushii",
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/slushi_allineed.dfpwm?raw=true"
+      "time":225
     },
     {
       "name": "Never Gonna Give You Up",
       "author": "Rick Astley",
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/rick_astley-never_gonna_give_you_up.dfpwm?raw=true"
+      "time":"213"
     },
     {
       "name": "Around The World",
       "author": "Daft Punk",
       "speed": 2,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-around_the_world.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-around_the_world.dfpwm?raw=true",
+      "time":429
     },
     {
       "name": "Digital Love",
       "author": "Daft Punk",
       "speed": 2,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-digital_love.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-digital_love.dfpwm?raw=true",
+      "time":301
     },
     {
       "name": "Harder Better Faster Stronger",
       "author": "Daft Punk",
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-harder_better_faster_stronger.dfpwm?raw=true"
+      "time":226
     },
     {
       "name": "One More Time",
       "author": "Daft Punk",
       "speed": 2,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-one_more_time.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-one_more_time.dfpwm?raw=true",
+      "time":320
     },
     {
       "name": "Something About Us",
       "author": "Daft Punk",
       "speed": 2,
-      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-something_about_us.dfpwm?raw=true"
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-something_about_us.dfpwm?raw=true",
+      "time":232
     },
     {
       "name": "Technologic [Radio Edit]",
       "author": "Daft Punk",
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-technologic-radio-edit.dfpwm?raw=true"
+      "time":166
     }
   ]
 }
