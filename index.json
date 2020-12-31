@@ -6,21 +6,23 @@
         "speed":2,
         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true"
     },
-    {   "name": "Mine Diamonds",
+    {   
+        "name": "Mine Diamonds",
         "author":"MineCraft Awesome Parodys",
         "speed":1,
         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true"
     },
-      {
+    {
         "name":"e",
         "author":"Dr. James Grime",
         "speed":1,
         "file":"https://github.com/Lignum/e/blob/master/e.dfpwm?raw=true"
-      },
+    },
     {
         "name":"spaceman",
         "author":"Lowly, AVXP, COSMIC, théos",
         "speed":2,
         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/spaceman.dfpwm?raw=true"
-  ] }
+    },
+        ] 
 }
