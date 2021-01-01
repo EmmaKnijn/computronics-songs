@@ -104,6 +104,88 @@
          "speed": 2,
          "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-derezzed_remix.dfpwm?raw=true",
          "time": 262
-      }
+      },
+      {
+         "type":"song",
+         "name":"Chronos",
+         "author":"Danimal Cannon and Zef",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-chronos.dfpwm?raw=true",
+         "time": 269
+      },
+      {
+         "type":"song",
+         "name":"Cheat Codes",
+         "author":"Nitro Fun",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/nitro_fun-cheat_codes.dfpwm?raw=true",
+         "time": 211
+      },
+      {
+         "type":"song",
+         "name":"Unlocked (Original Mix)",
+         "author":"Plesco",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/plesco-unlocked.dfpwm?raw=true",
+         "time": 227
+      },
+      {
+         "type":"song",
+         "name":"Long Live the New Fresh (Live)",
+         "author":"Danimal Cannon",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon-long_live_the_new_fresh_(live).dfpwm?raw=true",
+         "time": 267
+      },
+      {
+         "type":"song",
+         "name":"Cascade",
+         "author":"Kubbi",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/kubbi-cascade.dfpwm?raw=true",
+         "time": 259
+      },
+      {
+         "type":"song",
+         "name":"The Lunar Whale",
+         "author":"Danimal Cannon and Zef",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-the_lunar_whale.dfpwm?raw=true",
+         "time": 275
+      },
+      {
+         "type":"song",
+         "name":"Try This",
+         "author":"Pegboard Nerds",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/pegboard_nerds-try_this.dfpwm?raw=true",
+         "time": 229
+      },
+      {
+         "type":"song",
+         "name":"I'm Being Reelistic",
+         "author":"Omnitica",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/omnitica-im_being_reelistic.dfpwm?raw=true",
+         "time": 230
+      },
+      {
+         "type":"song",
+         "name":"",
+         "author":"",
+         "speed": 2,
+         "file":"",
+         "time":
+      },
+      {
+         "type":"song",
+         "name":"Cool Friends (Murtagh & Veschell Remix)",
+         "author":"Silva Hound",
+         "speed": 2,
+         "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/silva_hound-cool_friends-(remix).dfpwm?raw=true",
+         "time": 239
+      },
+      
+         
    ]
 }
