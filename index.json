@@ -260,10 +260,90 @@
     {
       "type": "song",
       "name": "Logic Gatekeeper",
-      "author": "DAnimal Cannon and Zef",
+      "author": "Danimal Cannon and Zef",
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-logic.dfpwm?raw=true",
       "time": 298
+    },
+    {
+      "type": "song",
+      "name": "The Art of War",
+      "author": "Chipzel",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/chipzel-the_art_of_war.dfpwm?raw=true",
+      "time": 193
+    },
+    {
+      "type": "song",
+      "name": "Close to Me",
+      "author": "Sabrepulse",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/sabrepulse-close_to_me.dfpwm?raw=true",
+      "time": 260
+    },
+    {
+      "type": "song",
+      "name": "New Game",
+      "author": "Nitro Fun",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/nitro_fun-new_game.dfpwm?raw=true",
+      "time": 259
+    },
+    {
+      "type": "song",
+      "name": "Legacy",
+      "author": "Danimal Cannon and Zef",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-legacy.dfpwm?raw=true",
+      "time": 317
+    },
+    {
+      "type": "song",
+      "name": "Warm Hugs in Court V2",
+      "author": "Kubbi",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/kubbi-warm_hugs_in_court_v2.dfpwm?raw=true",
+      "time": 354
+    },
+    {
+      "type": "song",
+      "name": "Final Boss",
+      "author": "Nitro Fun",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/nitro_fun-final_boss.dfpwm?raw=true",
+      "time": 316
+    },
+      {
+      "type": "song",
+      "name": "Agrobacter",
+      "author": "Danimal Cannon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon-agrobacter.dfpwm?raw=true",
+      "time": 176
+    },
+    {
+      "type": "song",
+      "name": "Destroid 8 Annihilate",
+      "author": "Excision and Far Too Loud",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/excision_and_far_too_loud-destroid-8-annihilate.dfpwm?raw=true",
+      "time": 309
+    },
+      {
+      "type": "song",
+      "name": "Synergy",
+      "author": "Various Artists",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/various_artists-synergy.dfpwm?raw=true",
+      "time": 242
+    },
+    {
+      "type": "song",
+      "name": "Sugar Rush",
+      "author": "Pixl",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/pixl-sugar_rush.dfpwm?raw=true",
+      "time": 285
     }
   ]
 }
