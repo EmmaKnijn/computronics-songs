@@ -176,6 +176,94 @@
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/silva_hound-cool_friends-(remix).dfpwm?raw=true",
       "time": 239
-    }
+    },
+    {
+      "type":"song",
+      "name":"Dubwoofer Substep",
+      "author":"Omnitica",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/omnitica-dubwoofer_substep.dfpwm?raw=true",
+      "time": 288,
+    },
+    {
+      "type":"song",
+      "name":"Termination Shock",
+      "author":"Sabrepulse",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/sabrepulse-termination_shock.dfpwm?raw=true",
+      "time": 301
+    },
+    {
+      "type":"song",
+      "name":"Hype",
+      "author":"Tokyo Machine",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/tokyo_machine-hype.dfpwm?raw=true",
+      "time": 182
+    },
+      {
+      "type":"song",
+      "name":"Spectra",
+      "author":"Chipzel",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/chipzel-spectra.dfpwm?raw=true",
+      "time": 236
+    },
+    {
+      "type":"song",
+      "name":"Into the Zone",
+      "author":"Shirobon",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/shirobon-into_the_zone.dfpwm?raw=true",
+      "time": 161
+    },
+      {
+      "type":"song",
+      "name":"Drop That Child",
+      "author":"Droptek & Tut Tut Child",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/droptek_and_tut_tut_child-drop_that_child.dfpwm?raw=true",
+      "time": 224
+    },
+    {
+      "type":"song",
+      "name":"Corrupted",
+      "author":"Danimal Cannon and Zef",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-corrupted.dfpwm?raw=true",
+      "time": 376
+    },
+      {
+      "type":"song",
+      "name":"First Crush",
+      "author":"Sabrepulse",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/sabrepulse-first_crush.dfpwm?raw=true",
+      "time": 315
+    },
+    {
+      "type":"song",
+      "name":"Barracuda",
+      "author":"Noisestorm",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/nousestorm-barracuda.dfpwm?raw=true",
+      "time":
+    },
+      {
+      "type":"song",
+      "name":"Clash",
+      "author":"Trip40",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/trip40-clash.dfpwm?raw=true",
+      "time": 218
+    },
+    {
+      "type":"song",
+      "name":"Logic Gatekeeper",
+      "author":"DAnimal Cannon and Zef",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-logic.dfpwm?raw=true",
+      "time": 298
+    },
   ]
 }
