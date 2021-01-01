@@ -183,7 +183,7 @@
       "author":"Omnitica",
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/omnitica-dubwoofer_substep.dfpwm?raw=true",
-      "time": 288,
+      "time": 288
     },
     {
       "type":"song",
@@ -247,7 +247,7 @@
       "author":"Noisestorm",
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/nousestorm-barracuda.dfpwm?raw=true",
-      "time":
+      "time": 262
     },
       {
       "type":"song",
@@ -264,6 +264,6 @@
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon_and_zef-logic.dfpwm?raw=true",
       "time": 298
-    },
+    }
   ]
 }
