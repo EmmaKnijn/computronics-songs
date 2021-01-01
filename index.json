@@ -344,6 +344,142 @@
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/pixl-sugar_rush.dfpwm?raw=true",
       "time": 285
-    }
+    },
+    {
+      "type": "song",
+      "name": "FTW",
+      "author": "Let's Be Friends",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/lets_be_friends-ftw.dfpwm?raw=true",
+      "time": 257
+    },
+     {
+      "type": "song",
+      "name": "Ember",
+      "author": "Kubbi",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/kubbi-ember.dfpwm?raw=true",
+      "time": 290
+    },
+    {
+      "type": "song",
+      "name": "Tokyo Skies",
+      "author": "Chipzel",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/chipzel-tokyo_skies.dfpwm?raw=true",
+      "time": 238
+    },
+    {
+      "type": "song",
+      "name": "Wicked",
+      "author": "Avenza",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/avenza-wicked.dfpwm?raw=true",
+      "time": 220
+    },
+    {
+      "type": "song",
+      "name": "Dance Of The Incognizant",
+      "author": "FantomenK",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/fantomenk-dance_of_the_incognizant.dfpwm?raw=true",
+      "time": 427
+    },
+    {
+      "type": "song",
+      "name": "On The Run",
+      "author": "Shirobon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/shirobon-on_the_run.dfpwm?raw=true",
+      "time": 268
+    },
+    {
+      "type": "song",
+      "name": "Crystal Tokyo",
+      "author": "FantomenK",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/fantomenk-crystal_tokyo.dfpwm?raw=true",
+      "time": 328
+    },
+    {
+      "type": "song",
+      "name": "Fox",
+      "author": "Shirobon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/shirobon-fox.dfpwm?raw=true",
+      "time": 316
+    },
+    {
+      "type": "song",
+      "name": "Strike The Earth",
+      "author": "Danimal Cannon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/danimal_cannon-strike_the_earth.dfpwm?raw=true",
+      "time": 216
+    },
+    {
+      "type": "song",
+      "name": "Flowers of Antimony (Rainbowdragonized)",
+      "author": "Rainbowdragoneyes",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/rainbowdragoneyes-flowers_of_antimony.dfpwm?raw=true",
+      "time": 104
+    },
+    {
+      "type": "song",
+      "name": "Just Shovels & Knights - La DAnse Macabre (Shirobon Remix)",
+      "author": "Shirobon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/shirobon-just_shovels_and_knights-la_danse_macabre_remix.dfpwm?raw=true",
+      "time": 120
+    },
+    {
+      "type": "song",
+      "name": "In the Halls of the Usurper (Just Shovels & Knights Version)",
+      "author": "Kubbi",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/kubbi-in_the_halls_of_the_usurper_(just_shovel_and_knights_version.dfpwm?raw=true",
+      "time": 131
+    },
+    {
+      "type": "song",
+      "name": "Katana Blaster",
+      "author": "Big Giant Circles",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/big_giant_circles-katana_blaster.dfpwm?raw=true",
+      "time": 192
+    },
+    {
+      "type": "song",
+      "name": "Deadlocked",
+      "author": "F-777",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/f-777-deadlocked.dfpwm?raw=true",
+      "time": 208
+    },
+    {
+      "type": "song",
+      "name": "Lightspeed",
+      "author": "Mdk",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/mdk-lightspeed.dfpwm?raw=true",
+      "time": 248
+    },
+    {
+      "type": "song",
+      "name": "Granite",
+      "author": "Shirobon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/shirobon-granite.dfpwm?raw=true",
+      "time": 151
+    },
+    {
+      "type": "song",
+      "name": "Creatures Ov Deception (Jsab Instrumental Edit)",
+      "author": "Rainbowdragoneyes",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Just_Shapes_and_Beats/rainbowdragoneyes-creatures_over_deception_(intrumental).dfpwm?raw=true",
+      "time": 120
+    } 
   ]
 }
