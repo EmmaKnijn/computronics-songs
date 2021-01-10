@@ -488,6 +488,14 @@
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/facade.dfpwm?raw=true",
       "time": 133
+    },
+    {
+      "type": "song",
+      "name": "Lolicons",
+      "author": "Miraie",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/lolicons.dfpwm?raw=true",
+      "time": 150
     } 
   ]
 }
