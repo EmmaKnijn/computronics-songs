@@ -511,7 +511,7 @@
     },
     {
       "type": "song",
-      "Name":"Space Oddity",
+      "name":"Space Oddity",
       "author": "David Bowie",
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/raw/main/David-Bowie-Space-Oddity.dfpwm",
