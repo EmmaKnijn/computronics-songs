@@ -508,6 +508,14 @@
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/lolicons.dfpwm?raw=true",
       "time": 150
-    } 
+    },
+    {
+      "type": "song",
+      "Name":"Space Oddity",
+      "author": "David Bowie",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/raw/main/David-Bowie-Space-Oddity.dfpwm",
+      "time": 226
+    }
   ]
 }
