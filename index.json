@@ -524,6 +524,14 @@
       "speed": 1,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/raw/main/banana-man.dfpwm",
       "time": 250
+    },
+    {
+      "type": "song",
+      "name": "BFG Division 2020",
+      "author": "Mick Gordon",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/05_BFG_Division_2020.dfpwm?raw=true",
+      "time": 286
     }
   ]
 }
