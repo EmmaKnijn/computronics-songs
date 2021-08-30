@@ -532,6 +532,38 @@
       "speed": 2,
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/05_BFG_Division_2020.dfpwm?raw=true",
       "time": 286
+    },
+    {
+      "type": "song",
+      "name": "Gagarin",
+      "author": "Public Service Broadcasting",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/PUBLIC_SERVICE_BROADCASTING-GAGARIN.dfpwm",
+      "time": 261
+    },
+    {
+      "type": "song",
+      "name": "Go!",
+      "author": "Public Service Broadcasting",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/PUBLIC_SERVICE_BROADCASTING-GO.dfpwm",
+      "time": 110
+    },
+    {
+      "type":"song",
+      "name":"Ruler of Everything",
+      "author":"Tally Hall",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/Tally_Hall-Ruler_of_Everything.dfpwm",
+      "time": 223
+    },
+    {
+      "type":"song",
+      "name":"Everybody Wants To Rule The World",
+      "author":"Tears For Fears",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/Tears_For_Fears_-_Everybody_Wants_To_Rule_The_World.dfpwm",
+      "time":250
     }
   ]
 }
