@@ -564,6 +564,38 @@
       "speed":2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/Tears_For_Fears_-_Everybody_Wants_To_Rule_The_World.dfpwm",
       "time":250
+    },
+    {
+      "type":"song",
+      "name":"Outro",
+      "author":"M83",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/blob/main/m83_outro.dfpwm?raw=true",
+      "time":248
+    },
+    {
+      "type":"song",
+      "name":"Rasputin",
+      "author":"Boney M.",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/rasputin.dfpwm",
+      "time":267
+    },
+    {
+      "type":"song",
+      "name":"One Day",
+      "author":"Lovejoy",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/one_day.dfpwm",
+      "time": 144
+    },
+    {
+      "type":"song",
+      "name":"Mr. Blue Sky",
+      "author":"Electric Light Orchestra",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/blue_sky.dfpwm",
+      "time":302
     }
   ]
 }
