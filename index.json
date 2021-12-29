@@ -596,6 +596,14 @@
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/blue_sky.dfpwm",
       "time":302
+    },
+    {
+      "type":"song",
+      "name":"Supersonic (My existence)",
+      "author": "Skrillex, Nosia, josh pan, Dylan Brady",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/supersonic.dfpwm",
+      "time": 166
     }
   ]
 }
