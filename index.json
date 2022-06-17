@@ -604,6 +604,70 @@
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/supersonic.dfpwm",
       "time": 166
+    },
+    {
+      "type":"song",
+      "name":"Ashes",
+      "author": "Stellar",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/ashes.dfpwm",
+      "time": 167
+    },
+    {
+      "type":"song",
+      "name":"Ashes",
+      "author": "Stellar",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/ashes.dfpwm",
+      "time": 166
+    },
+    {
+      "type":"song",
+      "name":"Roam",
+      "author": "The B-52's",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/roam.dfpwm",
+      "time": 239
+    },
+    {
+      "type":"song",
+      "name":"Burn The House Down",
+      "author": "AJR",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/ajrburnhousedown.dfpwm",
+      "time": 213
+    },
+    {
+      "type":"song",
+      "name":"3 O'Clock Things",
+      "author": "AJR",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/ajr-3clockthings.dfpwm",
+      "time": 239
+    },
+    {
+      "type":"song",
+      "name":"Sober Up",
+      "author": "AJR",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/sober-up.dfpwm",
+      "time": 230
+    },
+    {
+      "type":"song",
+      "name":"50 Ways To Leave Your Lover",
+      "author": "Paul Simon",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/paul-50ways.dfpwm",
+      "time": 219
+    },
+    {
+      "type":"song",
+      "name":"Red Right Hand",
+      "author": "Nick Cave & The Bad Seeds",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/nickcave-redrighthand.dfpwm",
+      "time": 230
     }
   ]
 }
