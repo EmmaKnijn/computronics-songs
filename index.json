@@ -668,6 +668,14 @@
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/nickcave-redrighthand.dfpwm",
       "time": 230
+    },
+    {
+      "type":"song",
+      "name":"Among Us Trap Remix",
+      "author": "Leonz",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/amogus.dfpwm",
+      "time":"73"
     }
   ]
 }
