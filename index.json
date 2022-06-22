@@ -675,7 +675,15 @@
       "author": "Leonz",
       "speed": 2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/amogus.dfpwm",
-      "time":"73"
+      "time":73
+    },
+    {
+      "type":"song",
+      "name":"Slime Incident",
+      "author":"Camellia",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/slime_incident.dfpwm",
+      "time":309
     }
   ]
 }
