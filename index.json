@@ -684,6 +684,14 @@
       "speed":2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/slime_incident.dfpwm",
       "time":309
+    },
+    {
+      "type":"song",
+      "name":"Enemy",
+      "author":"Imagine Dragons",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/imagine-dragons-enemy.dfpwm",
+      "time":173
     }
   ]
 }
