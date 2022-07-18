@@ -692,6 +692,14 @@
       "speed":2,
       "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/imagine-dragons-enemy.dfpwm",
       "time":173
+    },
+    {
+      "type":"song",
+      "name":"Everything Is a Lie",
+      "author":"Sefa & Dr. Peacock",
+      "speed":2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/everythingisalie.dfpwm",
+      "time":173
     }
   ]
 }
